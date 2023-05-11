@@ -1,16 +1,16 @@
 ## Привет, меня зовут Вячеслав (Hi, i'm Viacheslav)👋
 ### About me
-Я .Net разработчик.
-Также осваиваю С++ разработку, проходя курсы от Яндекс Практикум.
+Я .Net и С++ разработчик.
+
 ### Technology stack
 + .Net
 + WPF
 + MVVM
 + CMake
-+ Docker
-+ Shell
 + Protobuf
 + ANTLR
++ Docker
++ Shell
 ### My PET projects
 [Поисковая система](https://github.com/St-Viacheslavik/cpp-search-server)🔍
 
