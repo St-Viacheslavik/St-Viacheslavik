@@ -10,7 +10,7 @@
 + Docker
 + Shell
 + Protobuf
-+ ANTRL
++ ANTLR
 ### My PET projects
 [Поисковая система](https://github.com/St-Viacheslavik/cpp-search-server)🔍
 
